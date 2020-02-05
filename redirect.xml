@@ -1,0 +1,168 @@
+<rule name="soluções módulos-adicionais sped-pis-cofins o-que-é">
+    <match url="^sped/O-que-e-SPED-PIS-COFINS.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sped-pis-cofins/o-que-%C3%A9/" />
+</rule>
+<rule name="soluções módulos-adicionais sped-pis-cofins ebook-cartilha-online">
+    <match url="^sped/Manual.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sped-pis-cofins/ebook-cartilha-online/" />
+</rule>
+<rule name="soluções módulos-adicionais sped-pis-cofins dúvidas-mais-comuns">
+    <match url="^sped/Duvidas-mais-comuns.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sped-pis-cofins/d%C3%BAvidas-mais-comuns/" />
+</rule>
+<rule name="soluções módulos-adicionais sped-pis-c ofins como-adquirir">
+    <match url="^sped/Como-adquirir.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sped-pis-c/ofins/como-adquirir/" />
+</rule>
+<rule name="soluções módulos-adicionais sped-pis-cofins">
+    <match url="^sped/|solucoes/sped/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sped-pis-cofins/" />
+</rule>
+<rule name="soluções hábil-empresarial-sem-propaganda recursos">
+    <match url="^solucoes/sem-propaganda/Default.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-sem-propaganda/recursos/" />
+</rule>
+<rule name="soluções hábil-empresarial-sem-propaganda">
+    <match url="^solucoes/sem-propaganda/|solucoes/sem-propaganda?Habil7Software$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-sem-propaganda/" />
+</rule>
+<rule name="soluções hábil-empresarial-sem-propaganda-mais telas">
+    <match url="^solucoes/sem-propaganda-mais/Telas.aspx|sem-propaganda-mais/telas.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-sem-propaganda-mais/telas/" />
+</rule>
+<rule name="soluções hábil-empresarial-sem-propaganda-mais recursos">
+    <match url="^solucoes/sem-propaganda-mais/Recursos.aspx|solucoes/sem-propaganda-mais/Default.aspx|solucoes/sem-propaganda-mais/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-sem-propaganda-mais/recursos/" />
+</rule>
+<rule name="soluções módulos-adicionais sat vantagens">
+    <match url="^solucoes/sat/vantagens.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sat/vantagens/" />
+</rule>
+<rule name="soluções módulos-adicionais sat">
+    <match url="^solucoes/sat/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/sat/" />
+</rule>
+<rule name="conheca-o-hábil qual-solução-usar">
+    <match url="^solucoes/qual-solucao-usar/Default.aspx|solucoes/qual-solucao-usar/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="conheca-o-h%C3%A1bil/qual-solu%C3%A7%C3%A3o-usar/" />
+</rule>
+<rule name="soluções hábil-empresarial-profissional telas">
+    <match url="^solucoes/profissional/Telas.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-profissional/telas/" />
+</rule>
+<rule name="soluções hábil-empresarial-profissional tef">
+    <match url="^solucoes/profissional/TEF.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-profissional/tef/" />
+</rule>
+<rule name="soluções hábil-empresarial-profissional recursos">
+    <match url="^solucoes/profissional/Recursos.aspx|solucoes/profissional/Default.aspx|solucoes/profissional/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-profissional/recursos/" />
+</rule>
+<rule name="soluções hábil-empresarial-profissional nota-fiscal-paulista">
+    <match url="^solucoes/profissional/Nota-Fiscal-Paulista.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%c3%a7%c3%b5es/h%c3%a1bil-empresarial-profissional/nota-fiscal-paulista/" />
+</rule>
+<rule name="soluções hábil-empresarial-profissional equipamentos-compatíveis">
+    <match url="^solucoes/profissional/ECFs-Compativeis.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-profissional/equipamentos-compat%C3%ADveis/" />
+</rule>
+<rule name="atendimento treinamentos">
+    <match url="^centro-de-treinamentos$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="atendimento/treinamentos/" />
+</rule>
+<rule name="soluções módulos-adicionais">
+    <match url="^modulos-adicionais/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/" />
+</rule>
+<rule name="soluções hábil-empresarial-plus telas">
+    <match url="^plus/telas.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-plus/telas/" />
+</rule>
+<rule name="soluções hábil-empresarial-plus">
+    <match url="^plus/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-plus/" />
+</rule>
+<rule name="soluções hábil-empresarial-plus recursos">
+    <match url="^plus/recursos.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-plus/recursos/" />
+</rule>
+<rule name="conheca-o-hábil registro-gratuito">
+    <match url="^registrar|gratuito/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="conheca-o-h%C3%A1bil/registro-gratuito/" />
+</rule>
+<rule name="soluções hábil-empresarial-sem-propaganda telas">
+    <match url="^sem-propaganda/telas.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-sem-propaganda/telas/" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-eletrônica como-adquirir">
+    <match url="^nfe/como-adquirir.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/nota-fiscal-eletr%C3%B4nica/como-adquirir/" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-eletrônica vantagens">
+    <match url="^nfe/vantagens.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/nota-fiscal-eletr%C3%B4nica/vantagens/" />
+</rule>
+<rule name="https:  www.habil.com.br">
+    <match url="^barrinha/barrinha.asp$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="https://www.habil.com.br" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-de-serviço-eletrônica vantagens">
+    <match url="^nfse/vantagens.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/nota-fiscal-de-servi%C3%A7o-eletr%C3%B4nica/vantagens/" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-de-consumidor-eletrônica vantagens">
+    <match url="^nfce/vantagens.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/nota-fiscal-de-consumidor-eletr%C3%B4nica/vantagens/" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-de-consumidor-eletrônica dúvidas-mais-comuns">
+    <match url="^nfce/duvidas-mais-comuns.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/nota-fiscal-de-consumidor-eletr%C3%B4nica/d%C3%BAvidas-mais-comuns/" />
+</rule>
+<rule name="conheca-o-hábil diferenças-entre-as-soluções">
+    <match url="^plus/diferencas.aspx|solucoes/diferencas?Habil7Software$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="conheca-o-h%C3%A1bil/diferen%C3%A7as-entre-as-solu%C3%A7%C3%B5es/" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-eletrônica dúvidas-mais-comuns">
+    <match url="^nfe/duvidas-mais-comuns.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/m%C3%B3dulos-adicionais/nota-fiscal-eletr%C3%B4nica/d%C3%BAvidas-mais-comuns/" />
+</rule>
+<rule name="soluções módulos-adicionais nota-fiscal-eletrônica ebook-manual-online cartilha_nfe_habil_7.pdf">
+    <match url="^nfe/duvidas-mais-comuns.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="soluções/módulos-adicionais/nota-fiscal-eletrônica/ebook-manual-online/cartilha_nfe_habil_7.pdf" />
+</rule>
+<rule name="soluções hábil-empresarial-gratuito">
+    <match url="^divulgue/?Habil7Software$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-gratuito/" />
+</rule>
+<rule name="soluções hábil-empresarial-sem-propaganda-mais">
+    <match url="^solucoes/sem-propaganda-mais?Habil7Software$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-sem-propaganda-mais/" />
+</rule>
+<rule name="soluções hábil-emprsarial-plus">
+    <match url="^solucoes/plus?Habil7Software$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-emprsarial-plus/" />
+</rule>
+<rule name="soluções hábil-empresarial-profissional">
+    <match url="^solucoes/profissional?Habil7Software$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="solu%C3%A7%C3%B5es/h%C3%A1bil-empresarial-profissional/" />
+</rule>
+<rule name="atendimento clube-do-usuário">
+    <match url="^clube-do-usuario/$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="atendimento/clube-do-usu%C3%A1rio/" />
+</rule>
+<rule name="clube-do-usuário planos-e-preços">
+    <match url="^clube-do-usuario/Planos-e-Precos.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="clube-do-usu%c3%a1rio/planos-e-pre%c3%a7os/" />
+</rule>
+<rule name="clube-do-usuário vantagens">
+    <match url="^clube-do-usuario/Quais-as-vantagens.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="clube-do-usu%c3%a1rio/vantagens/" />
+</rule>
+<rule name="clube-do-usuário como-se-tornar-membro">
+    <match url="^clube-do-usuario/Como-se-tornar-membro.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="clube-do-usu%c3%a1rio/como-se-tornar-membro/" />
+</rule>
+<rule name="clube-do-usuário como-pagar-a-mensalidade">
+    <match url="^clube-do-usuario/Como-pagar-a-mensalidade.aspx$" ignoreCase="true" />
+    <action type="Redirect" redirectType="Permanent" url="clube-do-usu%c3%a1rio/como-pagar-a-mensalidade/" />
+</rule>
